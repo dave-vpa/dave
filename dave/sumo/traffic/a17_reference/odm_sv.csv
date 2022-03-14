@@ -1,0 +1,5 @@
+from;to;num
+north;east;82
+south;east;82
+west;north;108
+west;east;612

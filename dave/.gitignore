@@ -1,0 +1,8 @@
+.cmdenv-log
+.qtenvrc
+sumo-*.log
+services.xml
+omnetpp_*.ini
+*cams.json
+*.geojson
+results

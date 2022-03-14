@@ -1,0 +1,3 @@
+SzenarioID;Netz;Verkehr;Hindernis;Simulationsdauer;QSV Abfolge;V2X-Rate;tau;Anzahl Wiederholungen;LSA
+DAVE_A17_rw_0_obstacle_0_qsv_aabcdef_v2x_05000;dave_b170.net.xml;a17_reference;0;12600;aabcdef;0,5000;1,0;1;0
+DAVE_A17_rw_1_obstacle_0_qsv_aabcdef_v2x_05000;dave_b170_rw.net.xml;a17_reference;0;12600;aabcdef;0,5000;1,0;1;0

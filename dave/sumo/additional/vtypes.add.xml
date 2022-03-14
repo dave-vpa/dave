@@ -1,0 +1,18 @@
+<additional>
+	<vType id="5"
+		vClass="passenger"
+		speedFactor="normc(1,0.1,0.8,1.2)"
+		emergencyDecel="9.0"
+		maxSpeed="50"
+		tau="1.0"
+		sigma="1.0"/>
+		
+	<vType id="9"
+		vClass="trailer"
+		length="18.75"
+		guiShape="truck/trailer"
+		speedFactor="normc(1.125,0.0375,0.95,1.2)"
+		emergencyDecel="9.0"
+		tau="1.0"
+		sigma="1.0"/>
+</additional>

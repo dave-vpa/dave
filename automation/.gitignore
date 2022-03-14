@@ -1,0 +1,7 @@
+__pycache__
+.idea
+.cmdenv-log
+.vscode
+sumo-*.log
+automation_config_copy.csv
+nohup.out
